@@ -17,11 +17,5 @@
     ]
   },
   "include": ["public/", "fb/"],
-  "exclude": [
-    "**/lib/",
-    "**/dist/",
-    "**/node_modules/",
-    "**/__tests__/",
-    "**/__test__/"
-  ]
+  "exclude": ["**/lib/", "**/dist/", "**/node_modules/", "**/__test__/"]
 }
